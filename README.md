@@ -9,3 +9,6 @@
 "`" is swapped with "§"
 
 "`" is just next button on the right side of left shift
+
+
+you can custom modifiy it on: https://launcher.keychron.com/#/keymap
